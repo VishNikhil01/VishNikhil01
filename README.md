@@ -9,6 +9,7 @@
 ---
 
 ### Technical Experience and Interests:
+- SQL
 - Machine Learning
 - Deep Learning
 - Computer Vision 
