@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">I'm Nikhil 😀</h2>
-<h4 align="center">I'm an UnderGraduate Student Who is Pursuing Artificial Intelligence & Data Science | Aspiring to Become a Data Scientist  | AI & ML Enthusiast</h4>
+<h4 align="center">I'm Graduate Student and iam currently   Pursuing Masters in Computer Science | Aspiring to Become a Data Scientist  | AI & ML Enthusiast</h4>
 
 ---
 
